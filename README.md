@@ -9,11 +9,11 @@ Overfitting refers to the phenomenon when a network learns a function with very 
 * what do you do when you have limited data? 
   * Ans: Data Augmentation.
 
-* What is Data Augmentation?
+* What is Data Augmentation? \
   Data augmentation is a technique of artificially increasing the training set by creating modified copies of a dataset using existing data. \
   It includes making minor changes to the dataset or using deep learning to generate new data points.  
 
-* Commonly used Augmentation Techniques
+* Commonly used Augmentation Techniques \
   Some of the commonly used Image data augmentations techniques are:
 
   1. Flipping
