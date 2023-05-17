@@ -9,37 +9,37 @@ Overfitting refers to the phenomenon when a network learns a function with very 
 * what do you do when you have limited data? 
   * Ans: Data Augmentation.
 
-* What is Data Augmentation? \
-  * Data augmentation is a technique of artificially increasing the training set by creating modified copies of a dataset using existing data. \
+* What is Data Augmentation? 
+  * Data augmentation is a technique of artificially increasing the training set by creating modified copies of a dataset using existing data. 
   * It includes making minor changes to the dataset or using deep learning to generate new data points.  
 
 * Commonly used Augmentation Techniques \
   Some of the commonly used Image data augmentations techniques are:
 
-  1. Flipping\
+  1. Flipping
       * This means flipping the image horizontally or vertically.
       
-  2. Rotation\
+  2. Rotation
       * This means to rotate the image by a given angle in the clockwise or anticlockwise direction.
       
-  3. Cropping\
+  3. Cropping
       * During cropping, a section of the image is sampled randomly.
       
-  4. Brightness\
+  4. Brightness
       * Increase or decrease the brightness of the image.
       
-  5. Scaling\
+  5. Scaling
       * Scaling Images can be scaled outward or inward. When scaled outward, the image size increases while the image size decreases when scaled inwards.
       
-  6. Noise Addition\
+  6. Noise Addition
       * We can also add gaussian noise to the existing images.
       
 * Popular Image Augmentation packages
 
-    * skimage\
-    * opencv\
-    * imgaug\
-    * Albumentations\
-    * Augmentor\
-    * Keras(ImageDataGenerator class)\
-    * SOLT\
+    * skimage
+    * opencv
+    * imgaug
+    * Albumentations
+    * Augmentor
+    * Keras(ImageDataGenerator class)
+    * SOLT
