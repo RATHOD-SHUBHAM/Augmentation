@@ -3,6 +3,7 @@ Deep convolutional neural networks have performed remarkably well on many Comput
 However, these networks are heavily reliant on big data to avoid overfitting. \
 Overfitting refers to the phenomenon when a network learns a function with very high variance such as to perfectly model the training data. 
 
+---
 
 ## Increasing the amount and diversity of data.
 
@@ -12,7 +13,7 @@ Overfitting refers to the phenomenon when a network learns a function with very 
 * What is Data Augmentation? 
   * Data augmentation is a technique of artificially increasing the training set by creating modified copies of a dataset using existing data. 
   * It includes making minor changes to the dataset or using deep learning to generate new data points.  
-
+---
 * Commonly used Augmentation Techniques \
   Some of the commonly used Image data augmentations techniques are:
 
@@ -33,7 +34,7 @@ Overfitting refers to the phenomenon when a network learns a function with very 
       
   6. Noise Addition
       * We can also add gaussian noise to the existing images.
-      
+---      
 * Popular Image Augmentation packages
 
     * skimage
@@ -43,3 +44,5 @@ Overfitting refers to the phenomenon when a network learns a function with very 
     * Augmentor
     * Keras(ImageDataGenerator class)
     * SOLT
+---
+![vz7gkdD](https://github.com/RATHOD-SHUBHAM/Augmentation/assets/58945964/baf9e9d8-bcd3-4d59-ad87-9308b4d2d73d)
