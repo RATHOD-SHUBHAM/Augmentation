@@ -47,3 +47,6 @@ Overfitting refers to the phenomenon when a network learns a function with very 
 ---
 ![vz7gkdD](https://github.com/RATHOD-SHUBHAM/Augmentation/assets/58945964/baf9e9d8-bcd3-4d59-ad87-9308b4d2d73d)
 Image source: Kaggle
+
+---
+![download](https://github.com/RATHOD-SHUBHAM/Augmentation/assets/58945964/5d8f1a65-5d11-4dbd-8b2b-8116499067ed)
